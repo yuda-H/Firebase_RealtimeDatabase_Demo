@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "164242505392",
+    "firebase_url": "https://fingerprinteronfirebase.firebaseio.com",
+    "project_id": "fingerprinteronfirebase",
+    "storage_bucket": "fingerprinteronfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164242505392:android:83f0d7646719aa20",
+        "android_client_info": {
+          "package_name": "com.example.user.fingerprinter_onfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164242505392-st8ifh7he38c5dnn21m6ugmc90hn1jea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.fingerprinter_onfirebase",
+            "certificate_hash": "4df59667958f5223273f1e74d728bb3a5b9fbcd8"
+          }
+        },
+        {
+          "client_id": "164242505392-svvasbptde2q9ke5g4rkeb3pi8hm11em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzdbMk7EIIWSMjvVmMMlPcZd9Y3wytLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164242505392-svvasbptde2q9ke5g4rkeb3pi8hm11em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164242505392:android:01d0202ee370b2f7",
+        "android_client_info": {
+          "package_name": "com.example.yuda.fingerprinting_api17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164242505392-5foulk4rrpa0opejgmftp1pj289ffnaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuda.fingerprinting_api17",
+            "certificate_hash": "80c85202f5f0e06ceeedddadeca9fc9bab05c44c"
+          }
+        },
+        {
+          "client_id": "164242505392-svvasbptde2q9ke5g4rkeb3pi8hm11em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzdbMk7EIIWSMjvVmMMlPcZd9Y3wytLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164242505392-svvasbptde2q9ke5g4rkeb3pi8hm11em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
